@@ -98,15 +98,7 @@ Si es un reto tecnológico 🧩 y requiere una solución escalable y creativa �
 
 ---
 
-### 📊 Estadísticas de GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamiloSepulvedaxsys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=es" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloSepulvedaxsys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=es" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CamiloSepulvedaxsys/CamiloSepulvedaxsys/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <h3>⚡ Transformando café en infraestructuras escalables y código limpio ☕</h3>
+  <p>¡Gracias por visitar mi perfil! Nos vemos en el próximo <b>commit</b> 🚀</p>
 </div>
