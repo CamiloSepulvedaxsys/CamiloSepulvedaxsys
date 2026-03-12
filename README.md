@@ -26,14 +26,17 @@
 
 ### 👨‍💻 Sobre mí
 
-**Ingeniero DevOps** con sólida experiencia en automatización, desarrollo full-stack y arquitectura de microservicios. Participo activamente en implementaciones *end-to-end*, guiando el ciclo de vida del software desde su fase de desarrollo hasta su despliegue y monitoreo en la nube. Me enfoco en la mejora continua, la automatización y la optimización de procesos garantizando la máxima confiabilidad.
+Ingeniero DevOps y desarrollador Full-Stack ⚙️ apasionado por la automatización y la nube ☁️. Participo en implementaciones *end-to-end*, desde la primera línea de código hasta su despliegue y monitoreo en producción 🚀.
 
-🚀 **Mis áreas principales de enfoque:**
-- ⚙️ **Cultura DevOps & GitOps:** Construcción de pipelines CI/CD robustos e Infraestructura como Código (IaC) empleando **Terraform, Argo CD, Azure DevOps, Jenkins y Python**.
-- ☁️ **Cloud & Orquestación de Contenedores:** Amplio dominio de ecosistemas **Azure y AWS**. Administración y despliegue de aplicaciones en **Kubernetes (AKS, EKS, OpenShift, Rancher)** utilizando **Helm** en entornos cloud, *on-premise* e híbridos.
-- 💻 **Desarrollo & Microservicios:** Diseño y creación de soluciones backend eficientes y escalables utilizando **Java (Spring Boot), Python** y **Apache Camel**. 
-- 🤖 **Innovación & Inteligencia Artificial:** Integración y puesta en producción de modelos de Machine Learning aprovechando **Azure Machine Learning**.
-- 📊 **Observabilidad & Rendimiento:** Monitoreo profundo de los sistemas con **Grafana y Zabbix** para asegurar la estabilidad, detectar cuellos de botella y mantener un alto rendimiento transaccional.
+Construyo sistemas y arquitecturas de microservicios que escalan de manera eficiente 🧱. Principalmente usando **Java, Python y ecosistemas Cloud** 💻. Me gustan las soluciones que simplemente funcionan — de forma rápida ⚡, estable 🛠️ y limpia 🧼.
+
+He trabajado en proyectos que requieren integraciones inteligentes 🔗 usando **Apache Camel** y orquestación sólida usando **Kubernetes, Azure y AWS** 🌐. Hacer que distintos sistemas se comuniquen entre sí sin fricción mediante prácticas **GitOps y CI/CD** (Argo CD, Jenkins, DevOps) es mi especialidad 🤝.
+
+Me enfoco fuertemente en la optimización 🎯. Me gusta resolver problemas técnicos complejos 🧠 asegurando el máximo rendimiento transaccional y la observabilidad constante apoyándome de herramientas como **Grafana y Zabbix** 📊.
+
+Siempre estoy aprendiendo y evolucionando 📚. Integrando modelos de Machine Learning 🤖 o automatizando infraestructuras complejas con **Terraform**. Siempre subiendo de nivel ⬆️.
+
+Si es un reto tecnológico 🧩 y requiere una solución escalable y creativa — cuenta conmigo ✅.
 
 ---
 
