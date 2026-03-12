@@ -48,9 +48,8 @@ Siempre estoy aprendiendo nuevas tecnologías relacionadas con **DevOps, intelig
 
 ---
 
-# 🛠 Tech Stack
-
-## 💻 Programming
+# 🛠 Mi Stack tecnologico
+## 💻 Lenguajes
 
 <div align="left">
 
