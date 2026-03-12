@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=TU_USUARIO.TU_USUARIO"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=CamiloSepulvedaxsys.CamiloSepulvedaxsys"/>
 </div>
 
 ---
