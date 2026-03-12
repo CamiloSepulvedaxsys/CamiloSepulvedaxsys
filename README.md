@@ -87,12 +87,6 @@ Siempre estoy aprendiendo nuevas tecnologías relacionadas con **DevOps, intelig
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original.svg" height="40" alt="rancher"/>
 
-<img src="https://raw.githubusercontent.com/kubernetes-sigs/bicep/main/docs/images/bicep-logo.svg" height="40" alt="bicep"/>
-
-<img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/assets/azure-arm-template.png" height="40" alt="arm"/>
-
-<img src="https://raw.githubusercontent.com/lensapp/lens/master/docs/assets/logo-icon.svg" height="40" alt="lens"/>
-
 </div>
 
 ---
