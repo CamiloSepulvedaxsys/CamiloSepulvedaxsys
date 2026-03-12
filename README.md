@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hola, soy Camilo
 
-<!--
-**CamiloSepulvedaxsys/CamiloSepulvedaxsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer enfocado en automatización, cloud e integración de plataformas.
 
-Here are some ideas to get you started:
+## 🧠 Experiencia
+- Automatización con Python
+- Integración de APIs
+- CI/CD
+- Kubernetes
+- Azure DevOps
+- GitOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tecnologías
+Python | Docker | Kubernetes | Terraform | Azure DevOps | Git
+
+## 📊 Intereses
+- IA aplicada a automatización
+- Infraestructura como código
+- Observabilidad
