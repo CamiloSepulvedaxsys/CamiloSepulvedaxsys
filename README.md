@@ -90,7 +90,7 @@ Si es un reto tecnológico 🧩 y requiere una solución escalable y creativa �
 </div>
 
 <div align="center">
-  <h4>🖥️ Plataformas, OS y Observabilidad</h4>
+  <h4>🖥️ Plataformas, OS</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu" title="Ubuntu"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows" title="Windows"/>
