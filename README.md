@@ -23,9 +23,9 @@
 
 ### 👨‍💻 Sobre mí
 
-Ingeniero DevOps y desarrollador Full-Stack ⚙️ apasionado por la automatización y la nube ☁️. Participo en implementaciones *end-to-end*, desde la primera línea de código hasta su despliegue y monitoreo en producción 🚀.
+Ingeniero DevOps ⚙️ apasionado por la automatización y la nube ☁️. Diseño infraestructuras sólidas y participo en implementaciones *end-to-end*, asegurando despliegues exitosos y monitoreo continuo en producción 🚀.
 
-Construyo sistemas y arquitecturas de microservicios que escalan de manera eficiente 🧱. Principalmente usando **Java, Python y ecosistemas Cloud** 💻. Me gustan las soluciones que simplemente funcionan — de forma rápida ⚡, estable 🛠️ y limpia 🧼.
+Además de la infraestructura, mi faceta como **Desarrollador Full-Stack** 💻 me permite tener una visión 360° del ciclo de vida del software. Construyo aplicaciones desde la primera línea de código y diseño arquitecturas de microservicios eficientes usando **Java, Python y ecosistemas Cloud** 🧱. Entiendo las necesidades del código operativo tanto como las del desarrollo, buscando siempre soluciones que simplemente funcionen — de forma rápida ⚡, estable 🛠️ y limpia 🧼.
 
 He trabajado en proyectos que requieren integraciones inteligentes 🔗 usando **Python** y orquestación sólida usando **Kubernetes, Azure y AWS** 🌐. Hacer que distintos sistemas se comuniquen entre sí sin fricción mediante prácticas **GitOps y CI/CD** (Argo CD, Jenkins, DevOps) es mi especialidad 🤝.
 
