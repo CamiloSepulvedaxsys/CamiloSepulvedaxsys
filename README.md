@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>¡Hola! 👋 Soy Camilo Sepúlveda</h1>
-  <h3>Ingeniero DevOps | Automation & Cloud | Desarrollador Full-Stack</h3>
+  <h3>Ingeniero DevOps | Automation & Cloud | Full-Stack</h3>
 </div>
 
 <div align="center">
