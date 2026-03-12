@@ -56,7 +56,7 @@ Si es un reto tecnol贸gico 馃З y requiere una soluci贸n escalable y creativa 鈥
 </div>
 
 <div align="center">
-  <h4>鈽侊笍 DevOps, Cloud, Containers e IaC</h4>
+  <h4>鈽侊笍 Cloud, Containers e IaC</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" title="Azure & Azure DevOps"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original.svg" height="40" alt="rancher" title="Rancher"/>
@@ -69,7 +69,7 @@ Si es un reto tecnol贸gico 馃З y requiere una soluci贸n escalable y creativa 鈥
 </div>
 
 <div align="center">
-  <h4>馃敡 Integraci贸n, CI/CD, Calidad de C贸digo y Observabilidad</h4>
+  <h4>馃敡 Integraci贸n, DevOps, CI/CD, Calidad de C贸digo y Observabilidad</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins" title="Jenkins"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" title="GitHub"/>
