@@ -2,8 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 </div>
 
-###
-# 👋 Hola, soy Camilo Sepúlveda
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/camilo-sepulveda-047740236" target="_blank">
@@ -24,7 +23,7 @@
 
 ---
 
-# 👋 Hola, soy Camilo Sepúlveda
+# 👋Sobre mi
 
 💻 **DevOps & Automation Engineer**
 
