@@ -68,14 +68,6 @@ Si es un reto tecnológico 🧩 y requiere una solución escalable y creativa �
 </div>
 
 <div align="center">
-  <h4>🗄️ Bases de Datos</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cosmosdb/cosmosdb-original.svg" height="40" alt="cosmosdb" title="Azure Cosmos DB"/>
-</div>
-
-<div align="center">
   <h4>🔧 Integración, CI/CD, Calidad de Código y Observabilidad</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins" title="Jenkins"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git"/>
@@ -85,7 +77,13 @@ Si es un reto tecnológico 🧩 y requiere una solución escalable y creativa �
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" title="Grafana"/>
   <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="40" alt="zabbix" title="Zabbix"/>
 </div>
-
+<div align="center">
+  <h4>🗄️ Bases de Datos</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cosmosdb/cosmosdb-original.svg" height="40" alt="cosmosdb" title="Azure Cosmos DB"/>
+</div>
 <div align="center">
   <h4>🖥️ Plataformas, OS</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" title="Linux"/>
