@@ -30,7 +30,7 @@ Ingeniero DevOps y desarrollador Full-Stack ⚙️ apasionado por la automatizac
 
 Construyo sistemas y arquitecturas de microservicios que escalan de manera eficiente 🧱. Principalmente usando **Java, Python y ecosistemas Cloud** 💻. Me gustan las soluciones que simplemente funcionan — de forma rápida ⚡, estable 🛠️ y limpia 🧼.
 
-He trabajado en proyectos que requieren integraciones inteligentes 🔗 usando **Apache Camel** y orquestación sólida usando **Kubernetes, Azure y AWS** 🌐. Hacer que distintos sistemas se comuniquen entre sí sin fricción mediante prácticas **GitOps y CI/CD** (Argo CD, Jenkins, DevOps) es mi especialidad 🤝.
+He trabajado en proyectos que requieren integraciones inteligentes 🔗 usando **Python** y orquestación sólida usando **Kubernetes, Azure y AWS** 🌐. Hacer que distintos sistemas se comuniquen entre sí sin fricción mediante prácticas **GitOps y CI/CD** (Argo CD, Jenkins, DevOps) es mi especialidad 🤝.
 
 Me enfoco fuertemente en la optimización 🎯. Me gusta resolver problemas técnicos complejos 🧠 asegurando el máximo rendimiento transaccional y la observabilidad constante apoyándome de herramientas como **Grafana y Zabbix** 📊.
 
