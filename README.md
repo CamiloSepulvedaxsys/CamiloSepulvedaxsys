@@ -84,7 +84,6 @@ Si es un reto tecnol贸gico 馃З y requiere una soluci贸n escalable y creativa 鈥
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab" title="GitLab"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitea/gitea-original.svg" height="40" alt="gitea" title="Gitea"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="40" alt="sonarqube" title="SonarQube"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" title="Grafana"/>
   <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="40" alt="zabbix" title="Zabbix"/>
@@ -95,7 +94,6 @@ Si es un reto tecnol贸gico 馃З y requiere una soluci贸n escalable y creativa 鈥
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu" title="Ubuntu"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows" title="Windows"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a939dd6f18/icons/Lens.svg" height="40" alt="lens" title="Lens IDE for Kubernetes"/>
 </div>
 
 ---
