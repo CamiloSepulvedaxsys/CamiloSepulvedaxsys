@@ -86,17 +86,10 @@ Siempre estoy aprendiendo nuevas tecnologías relacionadas con **DevOps, intelig
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
-
----
-
 # 🚀 Interests
 
 - DevOps
+- Full Stack
 - Automatización
 - Cloud computing
 - Inteligencia Artificial aplicada a procesos
