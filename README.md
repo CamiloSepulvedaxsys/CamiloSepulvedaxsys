@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ3OHZwNW5vOXl6dzc1YnhncDNybjh6OWhnamtid2MwMmRlZ3R0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"/>
 </div>
 
 <div align="center">
   <h1>¡Hola! 👋 Soy Camilo Sepúlveda</h1>
-  <h3>Ingeniero DevOps | Automation & Cloud Specialist | Desarrollador Full-Stack</h3>
+  <h3>Ingeniero DevOps | Automation & Cloud | Desarrollador Full-Stack</h3>
 </div>
 
 <div align="center">
