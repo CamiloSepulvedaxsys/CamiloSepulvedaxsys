@@ -97,13 +97,7 @@ Siempre estoy aprendiendo nuevas tecnologías relacionadas con **DevOps, intelig
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins"/>
-
-<img src="https://cdn.worldvectorlogo.com/logos/github-actions-1.svg" height="40" alt="githubactions"/>
-
-<img src="https://cdn.worldvectorlogo.com/logos/gitea-1.svg" height="40" alt="gitea"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla"/>
 
 </div>
